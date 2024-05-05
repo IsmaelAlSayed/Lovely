@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0bead43b.css",
+    "main.js": "/static/js/main.f31d58a3.js",
+    "static/js/453.9a97f394.chunk.js": "/static/js/453.9a97f394.chunk.js",
+    "static/media/sport.png": "/static/media/sport.1c72bbcb5f6c0520d7e7.png",
+    "static/media/drress.jpg": "/static/media/drress.1261c93b3af5b43dc65b.jpg",
+    "static/media/under.png": "/static/media/under.c0b7bc7b588d6d3b5e9e.png",
+    "static/media/robe.png": "/static/media/robe.3b02074f3662b67f072f.png",
+    "static/media/lovely.png": "/static/media/lovely.25262d37cbf4c799840a.png",
+    "static/media/kenzy.jpg": "/static/media/kenzy.b2d74069e1828f4fe26e.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.0bead43b.css.map": "/static/css/main.0bead43b.css.map",
+    "main.f31d58a3.js.map": "/static/js/main.f31d58a3.js.map",
+    "453.9a97f394.chunk.js.map": "/static/js/453.9a97f394.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bead43b.css",
+    "static/js/main.f31d58a3.js"
+  ]
+}
